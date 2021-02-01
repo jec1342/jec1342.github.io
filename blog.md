@@ -1,2 +1,1 @@
-## Hello world
-## Here is some text
+# Welcome to My Bootcamp Blog
